@@ -88,7 +88,7 @@ h1 {
 }
 
 .accordion ul li:nth-child(2) {
-  background-image: url(imgs/354.png);
+  background-image: url(imgs/2.png);
 }
 .accordion ul li:nth-child(3) {
   background-image: url(imgs/531.png);
@@ -103,7 +103,7 @@ h1 {
 }
 
 .accordion ul li:nth-child(6) {
-  background-image: url(imgs/354.png);
+  background-image: url(imgs/6.png);
 }
 
 .accordion ul:hover li, .accordion ul:focus-within li {
